@@ -1,9 +1,7 @@
 import 'package:country_flags/country_flags.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:graphql_flutter/graphql_flutter.dart';
 import 'package:travel_app/src/core/theme.dart';
-import 'package:travel_app/src/core/ui_constants.dart';
 import 'package:http/http.dart' as http;
 
 class MyHomePage extends ConsumerStatefulWidget {
